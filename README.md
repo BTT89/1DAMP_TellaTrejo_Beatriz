@@ -1,4 +1,4 @@
-# 1DAMP_TellaTrejo_Beatriz
+# 1DAMV_TellaTrejo_Beatriz
 
 # ¿Qué es un programa informático?
 En la ingeniería de software, un programa informático se define como un conjunto estructurado de instrucciones y datos expresados en un lenguaje formal, diseñados para ser ejecutados por una computadora con el objetivo de resolver un problema específico o realizar una tarea determinada.
