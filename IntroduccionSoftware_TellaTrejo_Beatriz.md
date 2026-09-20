@@ -1,4 +1,4 @@
-# 1DAMV_TellaTrejo_Beatriz
+# 1DAMV_TellaTrejo_Beatriz 
 
 # ¿Qué es un programa informático?
 En la ingeniería de software, un programa informático se define como un conjunto estructurado de instrucciones y datos expresados en un lenguaje formal, diseñados para ser ejecutados por una computadora con el objetivo de resolver un problema específico o realizar una tarea determinada.
@@ -22,7 +22,7 @@ Sus características clave son:
 1. Formado por 0 y 1. Son los valores que utiliza el ordenador para entender las instrucciones.
 2. Incompleto: Necesita incorporar algunos elementos que se encuentran fuera del programa como las librerías externas.
 3. No se puede ejecutar por sí solo. Hasta que se añadan todas las partes que necesita, no puede funcionar por sí solo.
- ![esquema código obejto](mi-imagen.png
+ ![esquema código obejto](https://github.com/BTT89/1DAMP_TellaTrejo_Beatriz/blob/main/ESQUEMA%20C%C3%93DIGO%20OBJETO.png)
 
 **Por eso es incorrecto considerar siempre código objeto = programa ejecutable**.
 
