@@ -22,6 +22,7 @@ Sus características clave son:
 1. Formado por 0 y 1. Son los valores que utiliza el ordenador para entender las instrucciones.
 2. Incompleto: Necesita incorporar algunos elementos que se encuentran fuera del programa como las librerías externas.
 3. No se puede ejecutar por sí solo. Hasta que se añadan todas las partes que necesita, no puede funcionar por sí solo.
+ ![esquema código obejto](mi-imagen.png
 
 **Por eso es incorrecto considerar siempre código objeto = programa ejecutable**.
 
